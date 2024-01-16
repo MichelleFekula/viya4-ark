@@ -44,3 +44,4 @@ Thumbs.db
 build
 docker
 /**/.pytest_cache/
+ldap_validator/README.md
