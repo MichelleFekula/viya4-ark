@@ -45,3 +45,6 @@ build
 docker
 /**/.pytest_cache/
 ldap_validator/README.md
+
+# Results
+/report_results/
